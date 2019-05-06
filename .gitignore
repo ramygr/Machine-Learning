@@ -2,15 +2,11 @@
 MVA NLP mini-project/txt
 MVA NLP mini-project/corpus/
 MVA NLP mini-project/corpus_new/
-Customer Support on Twitter/data
 Customer Support on Twitter/data_external
-Spooky Author Id/data
 Spooky Author Id/glove.6B
 Spooky Author Id/submissions
 UCB HW/data
 UCI_whine_quality/venv
 UCI_whine_quality/.idea
-UCI_whine_quality/data
-GiveMeSomeCredit/data
-Data Visualisations/data
-Titanic/data
+**/data
+**/kernels
